@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WelcomeSlide"></activity>
+        <activity android:name=".SuccessLoginPasswordActivity"></activity>
+        <activity android:name=".WelcomeSlide" />
         <activity android:name=".SuccessLoginActivity" />
         <activity android:name=".SuccessResetPasswordActivity" />
         <activity android:name=".ResetPasswordActivity" />
